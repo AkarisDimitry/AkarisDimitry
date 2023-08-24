@@ -50,12 +50,12 @@ Tools (Most Relevant): Visual studio, Sublime, Linux ...
 
 <div align="center">
   <h2>🌟 My Contributions 🌟</h2>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/jmlombardi/jmlombardi/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/AkarisDimitry/AkarisDimitry/output/github-contribution-grid-snake.svg" />
 </div>
 
 <div align=center>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=jmlombardi&count_private=true&show_icons=true&theme=react&border_radius=10" alt="readme stats" />
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmlombardi&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="top langs" />
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=AkarisDimitry&count_private=true&show_icons=true&theme=react&border_radius=10" alt="readme stats" />
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkarisDimitry&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="top langs" />
 </div>
 
 <h3 align="center">
