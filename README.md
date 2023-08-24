@@ -25,7 +25,7 @@
 ## Publications 
 - 2023 Structure and stability of metallo-porphyrin networks on Au(111) ...
 - 2020 Enhancing Hydrogen Evolution Activity of Au(111) ...
-_Note: Only two publications are displayed here. For a complete list, please refer to my CV or contact me directly._
+Note: Only two publications are displayed here. For a complete list, please refer to my CV or contact me directly._
 
 ## Work Experience
 - 2022 - 2023 UNIVERSIDAD NACIONAL DE ROSARIO (UNR): Teacher, Physical Chemistry Department
@@ -35,12 +35,12 @@ _Note: Only two publications are displayed here. For a complete list, please ref
 ## Contributions presented at International and Argentinian Scientific Meetings
 - Reaction of 2D metal-organic frameworks: metal porphyrins on Au(111)
 - Restoration of multilinearity in chromatographic data using an algorithm based on functional data analysis.
-_Note: Only two Contributions are displayed here. For a complete list, please refer to my CV or contact me directly._
+Note: Only two Contributions are displayed here. For a complete list, please refer to my CV or contact me directly._
 
 ## Awards
 - 2022 Best Flash Poster selected by the Scientific Committee of NANO XX.
 - 2021 BIO Hackathon 2nd place
-_Note: Only two Awards are displayed here. For a complete list, please refer to my CV or contact me directly._
+Note: Only two Awards are displayed here. For a complete list, please refer to my CV or contact me directly._
 
 ## Skills
 Programming Skills (Most Relevant): Python, Matlab, C, C++, Java, openGL, R, Fortran, Cuda ...
