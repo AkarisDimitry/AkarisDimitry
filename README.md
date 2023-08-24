@@ -23,9 +23,9 @@
 </div>
 
 ## Publications 
+Only two publications are displayed here
 - 2023 Structure and stability of metallo-porphyrin networks on Au(111) ...
 - 2020 Enhancing Hydrogen Evolution Activity of Au(111) ...
-Note: Only two publications are displayed here. For a complete list, please refer to my CV or contact me directly._
 
 ## Work Experience
 - 2022 - 2023 UNIVERSIDAD NACIONAL DE ROSARIO (UNR): Teacher, Physical Chemistry Department
