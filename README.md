@@ -51,9 +51,8 @@ Tools (Most Relevant): Visual studio, Sublime, Linux ...
 
 <div align="center">
   <h2>🌟 My Contributions 🌟</h2>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/AkarisDimitry/AkarisDimitry/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://github.com/AkarisDimitry/AkarisDimitry/blob/output/github-contribution-grid-snake.gif" />
 </div>
-![snake gif](https://github.com/AkarisDimitry/AkarisDimitry/blob/output/github-contribution-grid-snake.gif)
 
 <div align=center>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=AkarisDimitry&count_private=true&show_icons=true&theme=react&border_radius=10" alt="readme stats" />
