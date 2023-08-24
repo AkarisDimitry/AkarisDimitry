@@ -23,7 +23,7 @@
 </div>
 
 ## Publications 
-Only two publications are displayed here
+<sub> Only two publications are displayed here. For a complete list, please refer to my CV or contact me directly. </sub>
 - 2023 Structure and stability of metallo-porphyrin networks on Au(111) ...
 - 2020 Enhancing Hydrogen Evolution Activity of Au(111) ...
 
@@ -33,20 +33,19 @@ Only two publications are displayed here
 - 2015 - 2017 UNIVERSIDAD NACIONAL DE ROSARIO (UNR): Junior Teaching Assistant, Organic Chemistry Department
 
 ## Contributions presented at International and Argentinian Scientific Meetings
+Only two Contributions are displayed here. For a complete list, please refer to my CV or contact me directly._
 - Reaction of 2D metal-organic frameworks: metal porphyrins on Au(111)
 - Restoration of multilinearity in chromatographic data using an algorithm based on functional data analysis.
-Note: Only two Contributions are displayed here. For a complete list, please refer to my CV or contact me directly._
 
 ## Awards
+Only two Awards are displayed here. For a complete list, please refer to my CV or contact me directly._
 - 2022 Best Flash Poster selected by the Scientific Committee of NANO XX.
 - 2021 BIO Hackathon 2nd place
-Note: Only two Awards are displayed here. For a complete list, please refer to my CV or contact me directly._
 
 ## Skills
-Programming Skills (Most Relevant): Python, Matlab, C, C++, Java, openGL, R, Fortran, Cuda ...
-Data science, Machine learning, Data mining ...
-Libraries (Most Relevant): Numpy, Pandas, Numba, openCV ...
-Tools (Most Relevant): Visual studio, Sublime, Linux ...
+- Programming Skills (Most Relevant): Python, Matlab, C, C++, Java, openGL, R, Fortran, Cuda, Data science, Machine learning, Data mining ...
+- Libraries (Most Relevant): Numpy, Pandas, Numba, openCV ...
+- Tools (Most Relevant): Visual studio, Sublime, Linux, VASP, Gaussian, Blender, Photoshop, Illustrator...
 
 
 <div align="center">
