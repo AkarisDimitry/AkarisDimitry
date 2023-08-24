@@ -1,0 +1,30 @@
+name: Generate Dino
+on:
+  schedule:
+    - cron: "0 */12 * * *" # This will make the action run every 12 hours. Adjust if needed.
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v2
+      - name: Setup Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.8
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install svgwrite
+      - name: Generate SVG
+        run: |
+          python .github/scripts/generate.py
+      - name: Commit and push
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add -A
+          git commit -m "Update contribution grid" || echo "No changes to commit"
+          git push
