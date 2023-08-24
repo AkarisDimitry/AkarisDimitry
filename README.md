@@ -23,7 +23,7 @@
 </div>
 
 ## Publications 
-<sub> Only two publications are displayed here. For a complete list, please refer to my CV or contact me directly. </sub>
+<sup> Only two publications are displayed here. For a complete list, please refer to my CV or contact me directly. </sup>
 - 2023 Structure and stability of metallo-porphyrin networks on Au(111) ...
 - 2020 Enhancing Hydrogen Evolution Activity of Au(111) ...
 
