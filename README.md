@@ -33,12 +33,12 @@
 - 2015 - 2017 UNIVERSIDAD NACIONAL DE ROSARIO (UNR): Junior Teaching Assistant, Organic Chemistry Department
 
 ## Contributions presented at International and Argentinian Scientific Meetings
-Only two Contributions are displayed here. For a complete list, please refer to my CV or contact me directly._
+<sup> Only two Contributions are displayed here. For a complete list, please refer to my CV or contact me directly._ </sup>
 - Reaction of 2D metal-organic frameworks: metal porphyrins on Au(111)
 - Restoration of multilinearity in chromatographic data using an algorithm based on functional data analysis.
 
 ## Awards
-Only two Awards are displayed here. For a complete list, please refer to my CV or contact me directly._
+<sup> Only two Awards are displayed here. For a complete list, please refer to my CV or contact me directly._ </sup>
 - 2022 Best Flash Poster selected by the Scientific Committee of NANO XX.
 - 2021 BIO Hackathon 2nd place
 
