@@ -50,7 +50,7 @@ Tools (Most Relevant): Visual studio, Sublime, Linux ...
 
 <div align="center">
   <h2>🌟 My Contributions 🌟</h2>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/AkarisDimitry/AkarisDimitry/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/AkarisDimitry/AkarisDimitry/main/github-contribution-grid-snake.svg" />
 </div>
 
 <div align=center>
