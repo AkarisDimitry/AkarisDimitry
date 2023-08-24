@@ -48,10 +48,12 @@ Data science, Machine learning, Data mining ...
 Libraries (Most Relevant): Numpy, Pandas, Numba, openCV ...
 Tools (Most Relevant): Visual studio, Sublime, Linux ...
 
+
 <div align="center">
   <h2>🌟 My Contributions 🌟</h2>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/AkarisDimitry/AkarisDimitry/main/github-contribution-grid-snake.svg" />
 </div>
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
 
 <div align=center>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=AkarisDimitry&count_private=true&show_icons=true&theme=react&border_radius=10" alt="readme stats" />
