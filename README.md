@@ -5,6 +5,7 @@
 </h1>
 
 <h3 align="center">A passionate researcher and educator from Rosario 🇦🇷</h3>
+<h3 align="center">Materials science. phd. in physics </h3>
 <br/>
 
 <div align="center"> 
