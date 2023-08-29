@@ -4,8 +4,8 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+World!+👋;+I'm+Juan+Manuel+Lombardi!;" />
 </h1>
 
-<h3 align="center">A passionate researcher and educator from Rosario 🇦🇷</h3>
-<h3 align="center">Materials science. phd. in physics </h3>
+<h3 align="center">🔬 A passionate researcher and educator from Rosario 🌎🇦🇷</h3>
+<h3 align="center">🧪 Materials science. 🎓 phd. in physics ⚛️</h3>
 <br/>
 
 <div align="center"> 
