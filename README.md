@@ -33,11 +33,7 @@ PhD student in Physics focusing on electronic properties of nanostructures. Expe
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
-
-
-
-                      
+<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />                 
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=jmlombardi.jmlombardi" />
 
