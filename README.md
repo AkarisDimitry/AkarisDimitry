@@ -5,7 +5,6 @@
 </h1>
 
 A passionate researcher and educator
-
 ------------------------------------
 
 PhD student in Physics focusing on electronic properties of nanostructures. Experienced in teaching and research with several publications. Proficient in Python, Matlab, R, Fortran, TensorFlow, Keras, and Sklearn. Check out my repositories below for my contributions.
