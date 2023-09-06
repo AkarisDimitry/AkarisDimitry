@@ -4,7 +4,18 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+World!+👋;+I'm+Juan+Manuel+Lombardi!;" />
 </h1>
 
-A passionate researcher and educator
+<h3 align="center">🔬 A passionate researcher and educator from Rosario 🌎🇦🇷</h3>
+<h3 align="center">🧪 Materials science. 🎓 phd. in physics ⚛️</h3>
+
+<div align="center"> 
+  <a href="mailto:jmlombardi@email.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/juan-manuel-lombardi" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+</div>
+
 ------------------------------------
 
 PhD student in Physics focusing on electronic properties of nanostructures. Experienced in teaching and research with several publications. Proficient in Python, Matlab, R, Fortran, TensorFlow, Keras, and Sklearn. Check out my repositories below for my contributions.
@@ -65,62 +76,6 @@ PhD student in Physics focusing on electronic properties of nanostructures. Expe
 <a href="http://www.github.com/AkarisDimitry"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=AkarisDimitry&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/AkarisDimitry" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkarisDimitry&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
-
-
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=jmlombardi.jmlombardi" />
-
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+World!+👋;+I'm+Juan+Manuel+Lombardi!;" />
-</h1>
-
-<h3 align="center">🔬 A passionate researcher and educator from Rosario 🌎🇦🇷</h3>
-<h3 align="center">🧪 Materials science. 🎓 phd. in physics ⚛️</h3>
-<br/>
-
-<div align="center"> 
-  <a href="mailto:jmlombardi@email.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://linkedin.com/in/juan-manuel-lombardi" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-</div>
-
-<h2 align="center">🛠️ Technologies & Skills 🛠️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=python,r,javascript,java,c,vscode,git" />
-</div>
-
-## Publications 
-<sup> Only two publications are displayed here. For a complete list, please refer to my CV or contact me directly. </sup>
-- 2023 Structure and stability of metallo-porphyrin networks on Au(111) ...
-- 2020 Enhancing Hydrogen Evolution Activity of Au(111) ...
-
-## Work Experience
-- 2022 - 2023 UNIVERSIDAD NACIONAL DE ROSARIO (UNR): Teacher, Physical Chemistry Department
-- 2016 - 2022 UNIVERSIDAD NACIONAL DE ROSARIO (UNR): Senior Teaching Assistant, Physical Chemistry Department
-- 2015 - 2017 UNIVERSIDAD NACIONAL DE ROSARIO (UNR): Junior Teaching Assistant, Organic Chemistry Department
-
-## Contributions presented at International and Argentinian Scientific Meetings
-<sup> Only two Contributions are displayed here. For a complete list, please refer to my CV or contact me directly._ </sup>
-- Reaction of 2D metal-organic frameworks: metal porphyrins on Au(111)
-- Restoration of multilinearity in chromatographic data using an algorithm based on functional data analysis.
-
-## Awards
-<sup> Only two Awards are displayed here. For a complete list, please refer to my CV or contact me directly._ </sup>
-- 2022 Best Flash Poster selected by the Scientific Committee of NANO XX.
-- 2021 BIO Hackathon 2nd place
-
-## Skills
-- Programming Skills (Most Relevant): Python, Matlab, C, C++, Java, openGL, R, Fortran, Cuda, Data science, Machine learning, Data mining ...
-- Libraries (Most Relevant): Numpy, Pandas, Numba, openCV ...
-- Tools (Most Relevant): Visual studio, Sublime, Linux, VASP, Gaussian, Blender, Photoshop, Illustrator...
-
 
 <div align="center">
   <h2>🌟 My Contributions 🌟</h2>
