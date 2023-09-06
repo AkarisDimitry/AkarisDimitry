@@ -3,7 +3,9 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+World!+👋;+I'm+Juan+Manuel+Lombardi!;" />
 </h1>
+
 A passionate researcher and educator
+
 ------------------------------------
 
 PhD student in Physics focusing on electronic properties of nanostructures. Experienced in teaching and research with several publications. Proficient in Python, Matlab, R, Fortran, TensorFlow, Keras, and Sklearn. Check out my repositories below for my contributions.
@@ -14,7 +16,7 @@ PhD student in Physics focusing on electronic properties of nanostructures. Expe
 *   🧠  I'm learning Python2.0
 *   🤝  I'm open to collaborating on chemometrics, ML, electronic properties of nanostructures, ...### Skills
 
-<h2 align="center">🛠️ Technologies & Skills 🛠️</h2>
+<h2 align="center">🛠️ Main Technologies & Skills 🛠️</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,r,java,c,vscode,git,blender,photoshop" />
