@@ -17,7 +17,7 @@ PhD student in Physics focusing on electronic properties of nanostructures. Expe
 <h2 align="center">🛠️ Technologies & Skills 🛠️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,r,java,c,vscode,git,blender" />
+    <img src="https://skillicons.dev/icons?i=python,r,java,c,vscode,git,blender,VASP" />
 </div>
 
 
