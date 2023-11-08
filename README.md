@@ -29,7 +29,7 @@ PhD student in Physics focusing on electronic properties of nanostructures. Expe
 *   🌍  I'm based in Rosario, Argentina
 *   🖥️  See my portfolio at [Minimal\_CV](http://github.com/AkarisDimitry/CV/blob/main/Minimal_CV.pdf)
 *   ✉️  You can contact me at [cyclopentanoperhydrophenanthre@gmail.com](mailto:cyclopentanoperhydrophenanthre@gmail.com)
-*   🧠  I'm learning Python2.0
+*   🧠  I'm learning dreamberd 🧠
 *   🤝  I'm open to collaborating on chemometrics, ML, electronic properties of nanostructures, ...### Skills
 
 <h2 align="center">🛠️ Main Technologies & Skills 🛠️</h2>
